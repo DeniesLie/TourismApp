@@ -1,0 +1,2 @@
+﻿1; 1; 1; some preferences from Denys Liienko(about Lviv excursion); 2;
+2; 2; 1; some preferences from Denys Liienko(about Prague excursion); 1;

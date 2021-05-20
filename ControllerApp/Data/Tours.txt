@@ -1,0 +1,4 @@
+﻿1; 1; Tour to Lviv; This is tour to Lviv description; Ukraine; excursion; 20/06/2021; 22/06/2021; 50;
+2; 2; Tour to Prague; This is descrition about tour; Czech Republic; excursion; 25/06/2021; 30/06/2021; 100; 
+3; 2; Tour to Paris; This is descrition about tour to Paris; France; excursion; 20/07/2021; 30/07/2021; 120;
+4; 1; Camp tour in Iceland; Description about cam tour...; Iceland; hiking; 20/05/2021; 30/05/2021; 150;
